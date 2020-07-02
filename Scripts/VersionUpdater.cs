@@ -1,4 +1,3 @@
-using JetBrains.Annotations;
 using Newtonsoft.Json;
 using System;
 using System.Collections;
@@ -10,7 +9,6 @@ using UnityEngine;
 
 public class VersionUpdater : MonoBehaviour
 {
-
     [Serializable]
     public enum VT
     {
@@ -35,9 +33,6 @@ public class VersionUpdater : MonoBehaviour
     {
         AddRunCount();
         SaveVersionToEditor();
-        //string vertxt = filecontent.Single(xa => xa.Contains("  bundleVersion: "));
-        //int ind = Array.IndexOf(filecontent, vertxt);
-        //filecontent[ind] = "  bundleVersion: "
     }
 
     private void AddRunCount()
