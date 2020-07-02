@@ -1,9 +1,13 @@
 # Unity-Project-Version-Updater
 This will overwrite [bundleVersion] in the ProjectSettings.asset in ProjectSettings folder
 
+# !!!Code is not ready. I forgot coding the buildcount part!!!
+
 <b>It Change This!</b>
 
 ![Img Preview3](https://ge5txg.bn.files.1drv.com/y4mPxaRva0st0jUqg_ysyY5315pq1W-M3XsYp6huJmnXdya-6lsm4GZeihs56KZFTJE2FzHqTqKlyjqSMfU9AGUgSIZodQphV6GajjlPazGNEgMnWEbNWFVIWT0VrzMGLrAId5rExR76l73FxThmTFf0rNaabdZ9a-ov2bCfubdue33IkKfz1qgSU2i9kUcPv9ViqgV0Fn-LOt3Kr3GNzYFPQ?width=591&height=581&cropmode=none)
+
+# !!!Code is not ready. I forgot coding the buildcount part!!!
 
 # !!!Only tested on Unity 2019.4.1f1!!!
 
